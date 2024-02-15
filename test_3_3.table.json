@@ -1,0 +1,37 @@
+{
+ "formatVersion": "0.1",
+ "columns": [
+  "col1",
+  "col2",
+  "col3"
+ ],
+ "records": [
+  {
+   "id": "e08c976f-8702-4f4b-a9e4-edb787417fae",
+   "idx": 0,
+   "data": [
+    "cell11",
+    "cell12",
+    "cell13"
+   ]
+  },
+  {
+   "id": "a96988b8-95d6-420a-8e5d-ae40ca927ead",
+   "idx": 1,
+   "data": [
+    "cell21",
+    "cell22",
+    "cell23"
+   ]
+  },
+  {
+   "id": "ca4b2cb1-df0e-424e-b1b3-1c249e81d649",
+   "idx": 2,
+   "data": [
+    "cell31",
+    "cell32",
+    "cell33"
+   ]
+  }
+ ]
+}

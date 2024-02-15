@@ -1,0 +1,144 @@
+{
+ "formatVersion": "0.1",
+ "columns": [
+  "Category",
+  "URS ID",
+  "SRS ID",
+  "Subtitle",
+  "Release",
+  "Quality critial requirements",
+  "On-Premise"
+ ],
+ "records": [
+  {
+   "id": "7a1424f5-1213-4758-9fcf-74c5a9a939bd",
+   "idx": 0,
+   "data": [
+    "cursim denique torrens",
+    "KE_URS_49",
+    "SRS_1",
+    "Tutis deficio supplanto decerno deorsum caelum tabernus comprehendo.",
+    "5.4.2",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "db53067d-75ac-4b59-8966-77cc88bb7f66",
+   "idx": 1,
+   "data": [
+    "conscendo una toties",
+    "KE_URS_22",
+    "SRS_2",
+    "Conculco cometes quisquam ait texo comis.",
+    "5.0.2",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "af974202-e7e0-47fc-a4a9-5624de42aa39",
+   "idx": 2,
+   "data": [
+    "basium textus verbum",
+    "KE_URS_8",
+    "SRS_3",
+    "Adfectus facilis cognatus cena.",
+    "3.0.8",
+    "Yes",
+    "N/A"
+   ]
+  },
+  {
+   "id": "798a1bc5-8b33-4244-95ce-f918edfc5eb5",
+   "idx": 3,
+   "data": [
+    "conscendo una toties",
+    "KE_URS_81",
+    "SRS_4",
+    "Dolores denique virga acidus perferendis auditor tollo alius.",
+    "2.8.4",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "8b28511b-da55-40ae-9760-f48ac37e8d4b",
+   "idx": 4,
+   "data": [
+    "aliqua crepusculum celer",
+    "KE_URS_45",
+    "SRS_5",
+    "Constans umerus uxor solus adfectus bos iste conservo solio.",
+    "2.7.7",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "04891d79-2f81-413f-9649-d21c3a098678",
+   "idx": 5,
+   "data": [
+    "aeneus capillus substantia",
+    "KE_URS_28",
+    "SRS_6",
+    "Amor curso culpo conforto tertius.",
+    "7.3.4",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "8b7130b4-6f79-4af0-9e41-3da979b0cd81",
+   "idx": 6,
+   "data": [
+    "consuasor audentia ab",
+    "KE_URS_91",
+    "SRS_7",
+    "Catena hic nam cunabula dedecor cunctatio tot comes tubineus spargo.",
+    "2.7.7",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "f7f5be08-8e37-45a9-8859-d764d868a196",
+   "idx": 7,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_20",
+    "SRS_8",
+    "Tollo quisquam absens addo volaticus libero necessitatibus considero corporis.",
+    "0.8.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "952b45a8-c0d3-4d72-b852-58233e8c922e",
+   "idx": 8,
+   "data": [
+    "cursim denique torrens",
+    "KE_URS_68",
+    "SRS_9",
+    "Antepono versus error nostrum exercitationem decipio decumbo debeo.",
+    "0.0.5",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "d41528ca-fbf8-41d8-bc4b-1d5a7f6a4091",
+   "idx": 9,
+   "data": [
+    "perferendis talis culpa",
+    "KE_URS_16",
+    "SRS_10",
+    "Vorax facilis colo curso.",
+    "2.1.0",
+    "Yes",
+    ""
+   ]
+  }
+ ]
+}
