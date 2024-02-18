@@ -1,0 +1,677 @@
+{
+ "formatVersion": "0.1",
+ "columns": [
+  "Category",
+  "URS ID",
+  "SRS ID",
+  "Subtitle",
+  "Release",
+  "Quality critial requirements",
+  "On-Premise"
+ ],
+ "records": [
+  {
+   "id": "96d3ffce-0d2f-4345-8c18-abe0797155f1",
+   "idx": 0,
+   "data": [
+    "vulgaris attollo audentia",
+    "KE_URS_31",
+    "SRS_1",
+    "Pecto eius bestia utpote volutabrum vesica caute deporto.",
+    "0.5.4",
+    "",
+    "N/A"
+   ]
+  },
+  {
+   "id": "ff8c71ea-dc71-4772-aaba-509d8a84141d",
+   "idx": 1,
+   "data": [
+    "basium textus verbum",
+    "KE_URS_15",
+    "SRS_2",
+    "Uter vulgaris cunae bene quasi.",
+    "5.9.6",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "9b3f69ce-6cf3-4316-9d27-a946c7d22fdf",
+   "idx": 2,
+   "data": [
+    "maxime ascisco quasi",
+    "KE_URS_79",
+    "SRS_3",
+    "Vere amiculum animus vulariter.",
+    "6.4.7",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "8eeeae3f-014e-450c-9f21-7d7dbbc9702f",
+   "idx": 3,
+   "data": [
+    "talis tui solitudo",
+    "KE_URS_33",
+    "SRS_4",
+    "Verbum pecto carbo turbo voluptates ultio cognomen pauci velut.",
+    "0.1.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "ba733117-41c0-4343-9f22-1c5671eff5cb",
+   "idx": 4,
+   "data": [
+    "varietas utrimque bellum",
+    "KE_URS_82",
+    "SRS_5",
+    "Curtus ustulo strenuus laudantium temporibus delibero vicinus accendo.",
+    "5.3.8",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "b695336f-9038-43b8-8adb-8b6210265fd3",
+   "idx": 5,
+   "data": [
+    "vulgaris attollo audentia",
+    "KE_URS_84",
+    "SRS_6",
+    "Pecus bellum aufero crustulum.",
+    "1.9.3",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "b293b1f6-d708-4bd7-a7b9-2d009cad74bc",
+   "idx": 6,
+   "data": [
+    "sordeo civis trans",
+    "KE_URS_24",
+    "SRS_7",
+    "Conservo ulciscor provident degero.",
+    "2.1.2",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "b2b34b3e-b424-4272-858b-ae5e715cbd53",
+   "idx": 7,
+   "data": [
+    "bos baiulus surgo",
+    "KE_URS_11",
+    "SRS_8",
+    "Facilis degusto bestia brevis.",
+    "9.5.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "4ce3cd72-84c5-4302-9fc8-c53708eb6d43",
+   "idx": 8,
+   "data": [
+    "patruus pecto cuppedia",
+    "KE_URS_50",
+    "SRS_9",
+    "Odit virgo adversus adeptio adimpleo vomito tantillus tactus.",
+    "8.1.7",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "f59c2e8f-51a6-4ddf-bdf6-5b17cdb8f3bd",
+   "idx": 9,
+   "data": [
+    "bos baiulus surgo",
+    "KE_URS_8",
+    "SRS_10",
+    "Tum dolorem ara sui suscipio suscipio architecto vilitas coepi.",
+    "3.7.9",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "8996307e-e2d5-4ba3-be9f-bd524b00c5f4",
+   "idx": 10,
+   "data": [
+    "vestrum vicinus tabgo",
+    "KE_URS_92",
+    "SRS_11",
+    "Demoror substantia venio catena tenax adficio cui.",
+    "3.0.8",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "9edbd12c-1df3-4652-8064-6e5b2f021a3e",
+   "idx": 11,
+   "data": [
+    "ducimus doloribus damnatio",
+    "KE_URS_2",
+    "SRS_12",
+    "Aequitas labore cognomen itaque arguo bellum.",
+    "4.9.2",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "ee1ba5c1-5fd0-446d-ac78-de6556192959",
+   "idx": 12,
+   "data": [
+    "adopto demoror sint",
+    "KE_URS_26",
+    "SRS_13",
+    "Comes suffragium aestivus suppono quaerat vinitor curia.",
+    "3.5.1",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "255eb63c-4d2e-40c3-a750-9f359f0ce4d0",
+   "idx": 13,
+   "data": [
+    "adopto demoror sint",
+    "KE_URS_51",
+    "SRS_14",
+    "Suscipio recusandae combibo ulciscor.",
+    "3.1.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "706e7f6b-84db-48c4-ad03-e3f1799cac7a",
+   "idx": 14,
+   "data": [
+    "comparo aegre corroboro",
+    "KE_URS_60",
+    "SRS_15",
+    "Auctor ut callide bene adeo alter quos vitae caecus aegre.",
+    "6.3.6",
+    "",
+    "N/A"
+   ]
+  },
+  {
+   "id": "730cb240-50c7-4158-bdf3-53ede1e97d6b",
+   "idx": 15,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_27",
+    "SRS_16",
+    "Suscipit vestigium trucido cultellus amplitudo delibero arguo.",
+    "1.0.9",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "0f8eac4c-a800-4d53-a24a-15ad6e9dbf69",
+   "idx": 16,
+   "data": [
+    "arcus assentator assentator",
+    "KE_URS_32",
+    "SRS_17",
+    "Aureus dedico sponte.",
+    "9.0.8",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "7a27b614-c995-4aea-9b27-cb870a8613c6",
+   "idx": 17,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_58",
+    "SRS_18",
+    "Uterque taedium tutis peccatus armarium.",
+    "4.9.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "f72b7681-1e8c-4bae-9263-b332c6879185",
+   "idx": 18,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_61",
+    "SRS_19",
+    "Cerno consuasor virtus excepturi suffragium natus occaecati atqui tantum officiis.",
+    "7.9.0",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "abb32599-490d-414e-8233-fe55b97f58da",
+   "idx": 19,
+   "data": [
+    "claudeo volva turba",
+    "KE_URS_35",
+    "SRS_20",
+    "Auxilium alius vomer ad comburo calculus communis spargo accedo blanditiis.",
+    "1.8.7",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "08422505-1d7d-468f-a0cb-c5b95510192a",
+   "idx": 20,
+   "data": [
+    "ustilo creo crebro",
+    "KE_URS_75",
+    "SRS_21",
+    "Textus sub spiritus tantillus nobis.",
+    "5.6.4",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "cff90c3e-0884-4661-8fe0-62e8b008194a",
+   "idx": 21,
+   "data": [
+    "cogo a terra",
+    "KE_URS_81",
+    "SRS_22",
+    "Subnecto apparatus eligendi adinventitias tempora denuo viriliter conor vis.",
+    "6.5.3",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "d5661e86-c9bc-4242-b4d9-d3c6bcd4bd2a",
+   "idx": 22,
+   "data": [
+    "sordeo civis trans",
+    "KE_URS_21",
+    "SRS_23",
+    "Tergiversatio sol sumo.",
+    "7.4.8",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "33842eb8-0f6b-4925-9042-07980cf76588",
+   "idx": 23,
+   "data": [
+    "ducimus doloribus damnatio",
+    "KE_URS_69",
+    "SRS_24",
+    "Aestivus vulticulus artificiose urbs illo volubilis animus conscendo eveniet.",
+    "5.5.6",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "410ae40b-6a37-4a60-85c2-7adb39c47548",
+   "idx": 24,
+   "data": [
+    "consuasor audentia ab",
+    "KE_URS_23",
+    "SRS_25",
+    "Tabesco pariatur timidus degusto vulgo certus alius sophismata defendo triduana.",
+    "8.2.9",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "135bbebd-73b5-4d60-9508-fdf11250161b",
+   "idx": 25,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_47",
+    "SRS_26",
+    "Iusto sollicito sublime.",
+    "0.0.9",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "11c133cd-06cc-46c3-8cc9-6d9bc1e11bef",
+   "idx": 26,
+   "data": [
+    "patruus pecto cuppedia",
+    "KE_URS_45",
+    "SRS_27",
+    "Repudiandae ustilo depromo vinitor thalassinus caelestis vivo tutis tego adsuesco.",
+    "9.3.8",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "6978d312-98a4-4bd2-9f89-0e0573aa4c45",
+   "idx": 27,
+   "data": [
+    "maxime ascisco quasi",
+    "KE_URS_22",
+    "SRS_28",
+    "Demitto tabesco aptus arceo antea possimus aegrus tamdiu crur.",
+    "3.9.6",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "82ba3591-5648-427c-96dd-f4b516f67622",
+   "idx": 28,
+   "data": [
+    "cursim denique torrens",
+    "KE_URS_72",
+    "SRS_29",
+    "Quidem cur crepusculum vorax cunabula via tergiversatio curis.",
+    "5.3.0",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "044626cd-9397-4561-b130-a21eed88688f",
+   "idx": 29,
+   "data": [
+    "basium textus verbum",
+    "KE_URS_68",
+    "SRS_30",
+    "Appositus claro aegrotatio vel volo administratio tum approbo vicissitudo.",
+    "5.5.1",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "378a8f2a-c108-4637-8cb8-dfa8a4213b00",
+   "idx": 30,
+   "data": [
+    "sordeo civis trans",
+    "KE_URS_15",
+    "SRS_31",
+    "Agnosco summopere cumque socius doloribus consequuntur defero uterque ventus.",
+    "2.9.9",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "f50c0ec8-8f84-4ca0-9555-d88e087bae7d",
+   "idx": 31,
+   "data": [
+    "nostrum ulciscor tyrannus",
+    "KE_URS_45",
+    "SRS_32",
+    "Libero attollo a possimus.",
+    "0.8.7",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "39ad79cc-c68e-4a18-86fb-304ecedb6b63",
+   "idx": 32,
+   "data": [
+    "vestrum vicinus tabgo",
+    "KE_URS_95",
+    "SRS_33",
+    "Explicabo vulgo conitor acervus contego.",
+    "9.0.7",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "a1a86963-d462-4896-86db-200af8a4f699",
+   "idx": 33,
+   "data": [
+    "adopto demoror sint",
+    "KE_URS_41",
+    "SRS_34",
+    "Torrens theca debilito utroque ustulo aetas thalassinus sub iure umerus.",
+    "8.9.2",
+    "Yes",
+    "N/A"
+   ]
+  },
+  {
+   "id": "e0cda2eb-3689-471e-94fa-dfb1284e258d",
+   "idx": 34,
+   "data": [
+    "patruus pecto cuppedia",
+    "KE_URS_93",
+    "SRS_35",
+    "Doloribus in adhaero ager uter quae.",
+    "4.2.4",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "fe19fd66-71df-4113-8c02-39018d312ed6",
+   "idx": 35,
+   "data": [
+    "basium textus verbum",
+    "KE_URS_30",
+    "SRS_36",
+    "Altus claustrum tantum.",
+    "5.4.9",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "22cd36fc-3f84-4502-8a53-9dc44fc2b05d",
+   "idx": 36,
+   "data": [
+    "consuasor audentia ab",
+    "KE_URS_54",
+    "SRS_37",
+    "Certe currus ipsa verbum circumvenio.",
+    "9.9.2",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "be0a209a-31f6-4028-aa58-b05c23283b3f",
+   "idx": 37,
+   "data": [
+    "ducimus doloribus damnatio",
+    "KE_URS_81",
+    "SRS_38",
+    "Cunae conicio canis clam in.",
+    "0.7.9",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "6c11a087-9473-4c1e-9afa-e11ce171497d",
+   "idx": 38,
+   "data": [
+    "antepono aestivus tabgo",
+    "KE_URS_1",
+    "SRS_39",
+    "Distinctio surgo demergo amissio.",
+    "5.2.6",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "1ad97ec1-903c-4437-bac0-b55966901cbe",
+   "idx": 39,
+   "data": [
+    "talis tui solitudo",
+    "KE_URS_24",
+    "SRS_40",
+    "Volup ancilla vereor.",
+    "3.4.8",
+    "Yes",
+    "N/A"
+   ]
+  },
+  {
+   "id": "d790d11c-46b4-4b7d-826a-1c1855e7680a",
+   "idx": 40,
+   "data": [
+    "cursim denique torrens",
+    "KE_URS_33",
+    "SRS_41",
+    "Adsuesco officia abundans vinco quam numquam copiose nisi tergum contego.",
+    "6.6.9",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "8d734104-4cb1-4e0d-aee1-a15e0c5d8386",
+   "idx": 41,
+   "data": [
+    "conscendo una toties",
+    "KE_URS_4",
+    "SRS_42",
+    "Capio vindico depromo audio fugit pauci.",
+    "4.0.4",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "59d24333-c65d-4ca7-bc65-60ca31f1d52d",
+   "idx": 42,
+   "data": [
+    "somnus ratione valde",
+    "KE_URS_55",
+    "SRS_43",
+    "Illo tametsi sodalitas ars tutis vereor brevis sit.",
+    "2.8.4",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "6795df59-36fa-40f8-a181-db3901df3616",
+   "idx": 43,
+   "data": [
+    "vacuus nostrum doloribus",
+    "KE_URS_74",
+    "SRS_44",
+    "Facilis verbera cinis.",
+    "6.9.9",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "5b167043-8692-40bb-a6e8-1f7c4bb2df11",
+   "idx": 44,
+   "data": [
+    "antepono aestivus tabgo",
+    "KE_URS_33",
+    "SRS_45",
+    "Defendo speculum vestrum vindico a.",
+    "3.3.9",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "7ef311e8-21c8-4666-b00c-df0b65320bea",
+   "idx": 45,
+   "data": [
+    "sufficio odit vesica",
+    "KE_URS_64",
+    "SRS_46",
+    "Defluo careo usque.",
+    "8.8.8",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "6c95259a-e232-4355-be3c-04cf83f8d1b2",
+   "idx": 46,
+   "data": [
+    "comparo aegre corroboro",
+    "KE_URS_64",
+    "SRS_47",
+    "Confero sint dapifer barba officia clamo.",
+    "5.4.8",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "a080ef12-0ac7-4453-8914-3b99d3d3f8c7",
+   "idx": 47,
+   "data": [
+    "arcus assentator assentator",
+    "KE_URS_45",
+    "SRS_48",
+    "Umerus timor aliquid comburo tergo armarium velociter libero.",
+    "2.8.1",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "eb693d19-d047-4335-81c8-20d60bf3c24b",
+   "idx": 48,
+   "data": [
+    "aliquam coadunatio abutor",
+    "KE_URS_85",
+    "SRS_49",
+    "Ara bis succedo a aeternus cur distinctio aufero.",
+    "8.6.7",
+    "Yes",
+    "N/A"
+   ]
+  },
+  {
+   "id": "dd0f562e-af74-4e80-a90a-7ab06b8d0047",
+   "idx": 49,
+   "data": [
+    "conscendo una toties",
+    "KE_URS_32",
+    "SRS_50",
+    "Cena modi aspicio assentator tamdiu argumentum culpa acceptus sint ante.",
+    "2.6.8",
+    "Yes",
+    ""
+   ]
+  },
+  {
+   "id": "759ee088-4477-4009-86f8-701fa26c7c05",
+   "idx": 50,
+   "data": [
+    "depromo accusamus paens",
+    "KE_URS_62",
+    "SRS_51",
+    "Damnatio suggero aestas volutabrum bellicus paulatim soluta.",
+    "0.3.1",
+    "Yes",
+    ""
+   ]
+  }
+ ]
+}
