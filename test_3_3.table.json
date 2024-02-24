@@ -1,13 +1,31 @@
 {
- "formatVersion": "0.1.0",
+ "formatVersion": "1.0.0",
  "columns": [
-  "col1",
-  "col2",
-  "col3"
+  {
+   "id": "c2429cc3-a21c-4d29-84f9-a424a736fbb9",
+   "name": "col1",
+   "type": {
+    "name": "text"
+   }
+  },
+  {
+   "id": "cc9cfbb6-ca31-41e5-b8ff-244fae716eec",
+   "name": "col2",
+   "type": {
+    "name": "text"
+   }
+  },
+  {
+   "id": "69c8ec95-8484-4978-98ea-f660af22e864",
+   "name": "col3",
+   "type": {
+    "name": "text"
+   }
+  }
  ],
  "records": [
   {
-   "id": "c89d687c-9b3d-4b08-b5d8-84cc8c239c45",
+   "id": "e85dccd9-6fc9-4610-bb14-f958c9dc7d0e",
    "idx": 0,
    "data": [
     "cell11",
@@ -16,7 +34,7 @@
    ]
   },
   {
-   "id": "ba5c9efe-03f4-48bc-b07c-136b458a3e94",
+   "id": "bae89f44-b2fe-4327-90b3-db8594ddb742",
    "idx": 1,
    "data": [
     "cell21",
@@ -25,7 +43,7 @@
    ]
   },
   {
-   "id": "df5df855-86a9-4778-bdb9-9f58a424eba8",
+   "id": "a6167be1-2c17-411b-b237-41c138670a04",
    "idx": 2,
    "data": [
     "cell31",
