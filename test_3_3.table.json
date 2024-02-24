@@ -1,5 +1,5 @@
 {
- "formatVersion": "0.1",
+ "formatVersion": "0.1.0",
  "columns": [
   "col1",
   "col2",
@@ -7,7 +7,7 @@
  ],
  "records": [
   {
-   "id": "e08c976f-8702-4f4b-a9e4-edb787417fae",
+   "id": "c89d687c-9b3d-4b08-b5d8-84cc8c239c45",
    "idx": 0,
    "data": [
     "cell11",
@@ -16,7 +16,7 @@
    ]
   },
   {
-   "id": "a96988b8-95d6-420a-8e5d-ae40ca927ead",
+   "id": "ba5c9efe-03f4-48bc-b07c-136b458a3e94",
    "idx": 1,
    "data": [
     "cell21",
@@ -25,7 +25,7 @@
    ]
   },
   {
-   "id": "ca4b2cb1-df0e-424e-b1b3-1c249e81d649",
+   "id": "df5df855-86a9-4778-bdb9-9f58a424eba8",
    "idx": 2,
    "data": [
     "cell31",
