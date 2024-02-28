@@ -2,21 +2,21 @@
  "formatVersion": "1.0.0",
  "columns": [
   {
-   "id": "32a161b4-a76c-4640-ac84-33438fe998d4",
+   "id": "b42edb35-5f40-428c-b392-53ae0f77dc05",
    "name": "col1",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "417857b6-b2b2-4d8f-a10a-c6f2dcd63739",
+   "id": "ea7a2260-0125-4f1d-be7c-46e0ac8b0d8d",
    "name": "col2",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "e80491c3-46be-47c7-92f5-a0e226c0e7bb",
+   "id": "efeb69b0-8459-41a0-88f3-f54e735a72fb",
    "name": "col3",
    "type": {
     "name": "text"

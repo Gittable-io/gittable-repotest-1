@@ -1,0 +1,113 @@
+{
+ "formatVersion": "1.0.0",
+ "columns": [
+  {
+   "id": "94abe982-0752-43a5-9cb5-f6824170a5aa",
+   "name": "Single value",
+   "type": {
+    "name": "single-value",
+    "options": [
+     "Galaxy",
+     "Nebula",
+     "Comet",
+     "Black Hole",
+     "Orbit",
+     "Planet",
+     "Astronaut",
+     "Telescope",
+     "Starlight",
+     "Alien"
+    ]
+   }
+  },
+  {
+   "id": "54669eba-c108-43ab-8dd9-7cee0b419382",
+   "name": "Text",
+   "type": {
+    "name": "text"
+   }
+  }
+ ],
+ "records": [
+  {
+   "id": "a438e485-82ad-4f7e-8bc1-333c3cc6348d",
+   "idx": 0,
+   "data": [
+    "Planet",
+    "Denique torrens veritas."
+   ]
+  },
+  {
+   "id": "cbcc2903-0865-45c0-977e-36a75f8c2b76",
+   "idx": 1,
+   "data": [
+    "Black Hole",
+    "Delibero ustilo creo crebro."
+   ]
+  },
+  {
+   "id": "f46ebe35-277e-4106-8057-9033bf10176b",
+   "idx": 2,
+   "data": [
+    "Astronaut",
+    "Volva turba."
+   ]
+  },
+  {
+   "id": "e1af902d-c98d-4827-a997-7a0f1d41ac3e",
+   "idx": 3,
+   "data": [
+    "Galaxy",
+    "Utrimque bellum perferendis talis culpa."
+   ]
+  },
+  {
+   "id": "0456cb4d-342d-49f4-9172-d9d537357b1b",
+   "idx": 4,
+   "data": [
+    "Black Hole",
+    "Ratione valde conscendo una."
+   ]
+  },
+  {
+   "id": "400b172c-b729-4432-a561-edf28d8f614f",
+   "idx": 5,
+   "data": [
+    "Nebula",
+    "Tamquam abeo usus consuasor audentia."
+   ]
+  },
+  {
+   "id": "e07ec0c9-d986-4102-8e27-b56e397d4db5",
+   "idx": 6,
+   "data": [
+    "Starlight",
+    "Comparo."
+   ]
+  },
+  {
+   "id": "22c78145-3bce-49eb-8a73-32afc43df824",
+   "idx": 7,
+   "data": [
+    "Comet",
+    "Corroboro."
+   ]
+  },
+  {
+   "id": "1ba4edbc-d747-4adc-a1bc-e5e42576f255",
+   "idx": 8,
+   "data": [
+    "Orbit",
+    "Textus verbum."
+   ]
+  },
+  {
+   "id": "773848a4-5e80-46fd-b5eb-372f6861e74a",
+   "idx": 9,
+   "data": [
+    "Telescope",
+    "Assentator."
+   ]
+  }
+ ]
+}
