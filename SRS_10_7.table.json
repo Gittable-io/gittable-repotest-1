@@ -2,10 +2,10 @@
  "formatVersion": "1.0.0",
  "columns": [
   {
-   "id": "fb6951ea-6644-4ad3-89b8-8df3b8102e69",
+   "id": "592f3630-3caa-4068-86a4-7ef38c53ad0c",
    "name": "Category",
    "type": {
-    "name": "single-value",
+    "name": "single-select",
     "options": [
      "User Interface Enhancements",
      "Performance Optimization",
@@ -21,38 +21,38 @@
    }
   },
   {
-   "id": "8380908b-eba5-475f-80c6-bf9f47ddddb3",
+   "id": "2b797562-44a1-42fe-b6a2-f54054ec36f1",
    "name": "URS ID",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "c2019f40-6f7d-4d57-a901-f25354c59bfe",
+   "id": "e8c462ba-a6c5-4805-96ec-1f90ec66c67d",
    "name": "SRS ID",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "9f7edc70-306d-40d3-86fb-75a6a7574e6c",
+   "id": "383b5abe-578f-4447-921a-2f201eaba6b8",
    "name": "Subtitle",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "0ecac347-cc11-4c7b-b73c-9b983b236b1b",
+   "id": "f75b87f3-c5cd-4ddf-9533-6ccd9069ce57",
    "name": "Release",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "7b379e79-9a4c-4b9a-9424-a6ff49f9db3d",
+   "id": "b863492e-0543-4672-80ba-52fab0869c58",
    "name": "Quality critial requirements",
    "type": {
-    "name": "single-value",
+    "name": "single-select",
     "options": [
      "Yes",
      "No"
@@ -60,7 +60,7 @@
    }
   },
   {
-   "id": "f8c17a3b-b546-4e26-aff1-b7a5de49dd7c",
+   "id": "be830ee5-58d0-4932-afbd-a59382a4b8d1",
    "name": "On-Premise",
    "type": {
     "name": "text"
@@ -69,7 +69,7 @@
  ],
  "records": [
   {
-   "id": "dffe64dd-949e-4ef9-88ba-e7a28ef8db7b",
+   "id": "8b66c5bf-2942-498d-aa56-1ee54041376d",
    "idx": 0,
    "data": [
     "Performance Optimization",
@@ -82,7 +82,7 @@
    ]
   },
   {
-   "id": "13225ae7-ebed-43e3-bcd3-3f7336f7dc93",
+   "id": "3b2dcaba-1bb9-429c-8e1d-75c3322bed63",
    "idx": 1,
    "data": [
     "Automation and Workflow Optimization",
@@ -95,7 +95,7 @@
    ]
   },
   {
-   "id": "aacdfb56-db70-4b27-a3d2-2da9ee8295ba",
+   "id": "4105afdf-5fc1-42dc-b096-1fe2ec3ccfd1",
    "idx": 2,
    "data": [
     "Customization and Personalization",
@@ -108,7 +108,7 @@
    ]
   },
   {
-   "id": "3a79f91e-7a1d-4921-83a2-d7c3492b399a",
+   "id": "563e8f75-06aa-42c1-9858-b85ecbcd4df9",
    "idx": 3,
    "data": [
     "Security Features",
@@ -121,7 +121,7 @@
    ]
   },
   {
-   "id": "9d7bd759-1682-4a8d-9757-d8118ef6133c",
+   "id": "87655375-37da-40ab-b3bd-ca4970eb58f5",
    "idx": 4,
    "data": [
     "Customization and Personalization",
@@ -134,7 +134,7 @@
    ]
   },
   {
-   "id": "8b23fbe1-e1fa-458c-b16d-ca3483a25b7e",
+   "id": "770f7978-11d1-40f1-a8b8-f5f9ffc1763f",
    "idx": 5,
    "data": [
     "Accessibility Improvements",
@@ -147,7 +147,7 @@
    ]
   },
   {
-   "id": "a87e86f5-4d99-49c2-8fd7-49bbb8e79496",
+   "id": "2d6db8ce-4173-4121-8888-e7a1d631cc73",
    "idx": 6,
    "data": [
     "Automation and Workflow Optimization",
@@ -160,7 +160,7 @@
    ]
   },
   {
-   "id": "a597d5e1-dbe4-4011-94ec-8b7977978575",
+   "id": "127036f7-da80-4d13-9729-5db4f8a13e53",
    "idx": 7,
    "data": [
     "Accessibility Improvements",
@@ -173,7 +173,7 @@
    ]
   },
   {
-   "id": "cbe5ed3c-72a1-4e50-8916-ec03253f7d02",
+   "id": "a86bcbc5-bbc0-4f71-b696-d5d783f4aa83",
    "idx": 8,
    "data": [
     "Automation and Workflow Optimization",
@@ -186,7 +186,7 @@
    ]
   },
   {
-   "id": "4d7c53ad-983b-47d8-bca4-0f59639ed7fb",
+   "id": "a6bb99ae-8c89-4894-b582-4c704842c0c2",
    "idx": 9,
    "data": [
     "Customization and Personalization",

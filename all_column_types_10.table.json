@@ -2,10 +2,10 @@
  "formatVersion": "1.0.0",
  "columns": [
   {
-   "id": "94abe982-0752-43a5-9cb5-f6824170a5aa",
-   "name": "Single value",
+   "id": "1c217fbb-031d-4426-8ce3-bfbf01e2841b",
+   "name": "Single select",
    "type": {
-    "name": "single-value",
+    "name": "single-select",
     "options": [
      "Galaxy",
      "Nebula",
@@ -21,7 +21,7 @@
    }
   },
   {
-   "id": "54669eba-c108-43ab-8dd9-7cee0b419382",
+   "id": "0f772fc2-13a1-428c-8383-96997e6a43e0",
    "name": "Text",
    "type": {
     "name": "text"
@@ -30,83 +30,83 @@
  ],
  "records": [
   {
-   "id": "a438e485-82ad-4f7e-8bc1-333c3cc6348d",
+   "id": "3f9c61da-e0f6-4628-94d7-97ca32431cd8",
    "idx": 0,
    "data": [
     "Planet",
-    "Denique torrens veritas."
+    "Totidem."
    ]
   },
   {
-   "id": "cbcc2903-0865-45c0-977e-36a75f8c2b76",
+   "id": "d7d17c18-19a3-4dd7-927b-5cf46e171a25",
    "idx": 1,
    "data": [
     "Black Hole",
-    "Delibero ustilo creo crebro."
+    "Summopere."
    ]
   },
   {
-   "id": "f46ebe35-277e-4106-8057-9033bf10176b",
+   "id": "d9bfa1c5-1c04-4af9-8d06-77f70ee9c946",
    "idx": 2,
    "data": [
     "Astronaut",
-    "Volva turba."
+    "Socius doloribus consequuntur."
    ]
   },
   {
-   "id": "e1af902d-c98d-4827-a997-7a0f1d41ac3e",
+   "id": "3fea6a5b-f19b-4556-9064-209b7c3c15cc",
    "idx": 3,
    "data": [
     "Galaxy",
-    "Utrimque bellum perferendis talis culpa."
+    "Uterque ventus clamo."
    ]
   },
   {
-   "id": "0456cb4d-342d-49f4-9172-d9d537357b1b",
+   "id": "74a45eae-9084-499c-ab27-f24feadb5639",
    "idx": 4,
    "data": [
     "Black Hole",
-    "Ratione valde conscendo una."
+    "Vitae assentator libero attollo a."
    ]
   },
   {
-   "id": "400b172c-b729-4432-a561-edf28d8f614f",
+   "id": "7d2fb7a6-9848-4b51-bbcd-6600924132dc",
    "idx": 5,
    "data": [
     "Nebula",
-    "Tamquam abeo usus consuasor audentia."
+    "Acerbitas varietas tantum claudeo."
    ]
   },
   {
-   "id": "e07ec0c9-d986-4102-8e27-b56e397d4db5",
+   "id": "67407c90-c65c-4b3e-901b-d01f726817ff",
    "idx": 6,
    "data": [
     "Starlight",
-    "Comparo."
+    "Vulgo conitor acervus."
    ]
   },
   {
-   "id": "22c78145-3bce-49eb-8a73-32afc43df824",
+   "id": "bcdd859e-d0b1-4129-b88f-2daf417e312a",
    "idx": 7,
    "data": [
     "Comet",
-    "Corroboro."
+    "Victus a."
    ]
   },
   {
-   "id": "1ba4edbc-d747-4adc-a1bc-e5e42576f255",
+   "id": "02073075-8395-4d51-a82f-d27b30296862",
    "idx": 8,
    "data": [
     "Orbit",
-    "Textus verbum."
+    "Vulgaris torrens theca debilito."
    ]
   },
   {
-   "id": "773848a4-5e80-46fd-b5eb-372f6861e74a",
+   "id": "faecc59b-4bc2-42fd-ad39-95fcfcb1068a",
    "idx": 9,
    "data": [
     "Telescope",
-    "Assentator."
+    "Ustulo aetas thalassinus sub iure."
    ]
   }
  ]
