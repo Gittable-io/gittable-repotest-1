@@ -1,8 +1,9 @@
 {
- "formatVersion": "1.0.0",
+ "formatVersion": "2.0.0",
  "columns": [
   {
-   "id": "faa7ea71-7824-42ae-a51a-ad91f669a472",
+   "id": "cc2cddb3-2285-49e0-8781-a1c0fe395ffc",
+   "idx": 0,
    "name": "Category",
    "type": {
     "name": "single-select",
@@ -21,35 +22,40 @@
    }
   },
   {
-   "id": "6422fb93-bab6-473e-8b20-438b0e5a5b7f",
+   "id": "b31fb924-5814-4aa4-a0ff-6f63f1b56ea4",
+   "idx": 1,
    "name": "URS ID",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "5017f9a0-8736-4479-91be-204354652afa",
+   "id": "c4192821-59dd-4de3-9adc-7aa516fad8f1",
+   "idx": 2,
    "name": "SRS ID",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "73c95f7f-5a69-433d-a26c-536f43c242dc",
+   "id": "03f65fc7-5673-415f-9947-1e74ff353a88",
+   "idx": 3,
    "name": "Subtitle",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "805a4b63-25ae-4e86-9350-aaf87389c6b6",
+   "id": "3b5dfcd3-0cbe-4148-8881-e992c6669f4c",
+   "idx": 4,
    "name": "Release",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "22dc6478-999c-4554-b5e7-6f4c35affd74",
+   "id": "54bfd46f-75bc-4aac-8468-38551651c7d7",
+   "idx": 5,
    "name": "Quality critial requirements",
    "type": {
     "name": "single-select",
@@ -60,7 +66,8 @@
    }
   },
   {
-   "id": "8c6db850-fc22-4996-b733-0fbf88c1b942",
+   "id": "34e1cc60-4d14-4078-840e-35442901f3ed",
+   "idx": 6,
    "name": "On-Premise",
    "type": {
     "name": "text"
@@ -69,7 +76,7 @@
  ],
  "records": [
   {
-   "id": "75ddeb69-3367-4ee2-a97f-575d1b49a206",
+   "id": "5bef3adb-ffef-49f2-b3c9-f19e39b81e12",
    "idx": 0,
    "data": [
     "Customization and Personalization",
@@ -82,7 +89,7 @@
    ]
   },
   {
-   "id": "4e2b7c4e-bee9-44ce-9778-94a911b3c098",
+   "id": "372a33be-5795-480c-8fce-961f816d4f91",
    "idx": 1,
    "data": [
     "User Interface Enhancements",
@@ -95,7 +102,7 @@
    ]
   },
   {
-   "id": "fe892ba2-173b-456b-8c0a-40d6ba3ad7e9",
+   "id": "15286d9a-66d8-4812-83b1-4c9c9beaffe4",
    "idx": 2,
    "data": [
     "Customization and Personalization",
@@ -108,7 +115,7 @@
    ]
   },
   {
-   "id": "883f0cb3-524d-4cdd-b322-2c42aa453bc0",
+   "id": "88d91f4d-f33a-4e82-829a-f9a03192a447",
    "idx": 3,
    "data": [
     "Performance Optimization",
@@ -121,7 +128,7 @@
    ]
   },
   {
-   "id": "c9148cd8-9e6d-4c26-9c4f-085ae9ade87e",
+   "id": "2f64c203-d797-48a4-ab9b-ca5bf56d56f9",
    "idx": 4,
    "data": [
     "Accessibility Improvements",
@@ -134,7 +141,7 @@
    ]
   },
   {
-   "id": "943cc37d-1047-43b7-a6d4-df98d2eae213",
+   "id": "e0c1c666-4bb4-4c5e-bf89-0afcf6f16aec",
    "idx": 5,
    "data": [
     "Customization and Personalization",
@@ -147,7 +154,7 @@
    ]
   },
   {
-   "id": "1e76f02d-23ba-4b36-9b50-4fc495d354c9",
+   "id": "224d517a-88d2-4170-8e1d-13daa2249243",
    "idx": 6,
    "data": [
     "Automation and Workflow Optimization",
@@ -160,7 +167,7 @@
    ]
   },
   {
-   "id": "7374583a-005c-449f-98b2-ea70aee2c0de",
+   "id": "3de95078-2859-490e-bde5-80581050d140",
    "idx": 7,
    "data": [
     "Customization and Personalization",
@@ -173,7 +180,7 @@
    ]
   },
   {
-   "id": "4959b3a4-b3a1-47bb-b5e7-f907083a4c1e",
+   "id": "b9bfa6d3-0082-4e14-bdd3-73e65603d261",
    "idx": 8,
    "data": [
     "User Interface Enhancements",
@@ -186,7 +193,7 @@
    ]
   },
   {
-   "id": "7f44f061-1ece-4b13-824d-6707c36dceac",
+   "id": "1c2647c1-5dc6-4994-846c-18661144b561",
    "idx": 9,
    "data": [
     "Integration Capabilities",
@@ -199,7 +206,7 @@
    ]
   },
   {
-   "id": "6b089330-e448-4311-ac7d-a951e77c2753",
+   "id": "49f0eebf-ed98-4dd7-9a46-9a0ecafbf33d",
    "idx": 10,
    "data": [
     "User Interface Enhancements",
@@ -212,7 +219,7 @@
    ]
   },
   {
-   "id": "886a75ef-e6ec-48f0-9851-ecb821c89c87",
+   "id": "1ec86e41-7824-4b5d-8725-d468bfae3a84",
    "idx": 11,
    "data": [
     "Accessibility Improvements",
@@ -225,7 +232,7 @@
    ]
   },
   {
-   "id": "e6c9a52b-c84e-40b4-adde-46cbfd6d7a67",
+   "id": "de3f254c-8599-4d5a-a672-11d148496c1e",
    "idx": 12,
    "data": [
     "Data Management and Analysis",
@@ -238,7 +245,7 @@
    ]
   },
   {
-   "id": "ba14f6b5-e657-4733-8e76-59521b8b384b",
+   "id": "b050d823-c0b8-4c94-bf0f-2f25ea78f2e2",
    "idx": 13,
    "data": [
     "Integration Capabilities",
@@ -251,7 +258,7 @@
    ]
   },
   {
-   "id": "95bfbf22-9841-4843-aacc-d4a1e30c0e00",
+   "id": "1362085f-fef3-417a-ac49-dd93d37775e2",
    "idx": 14,
    "data": [
     "User Interface Enhancements",
@@ -264,7 +271,7 @@
    ]
   },
   {
-   "id": "f63e12e6-f6db-40e5-8e9b-e353b565b94f",
+   "id": "93192052-84d9-4ca6-b40d-3958ad9caa10",
    "idx": 15,
    "data": [
     "User Interface Enhancements",
@@ -277,7 +284,7 @@
    ]
   },
   {
-   "id": "8c8a365d-7c09-44ba-bce8-1d1881fe3adb",
+   "id": "513af380-8019-4c68-8ac3-869c8af4b8fe",
    "idx": 16,
    "data": [
     "Performance Optimization",
@@ -290,7 +297,7 @@
    ]
   },
   {
-   "id": "79c120ec-b913-4b2d-b833-3e3472f4a935",
+   "id": "edc2af6d-7f8a-4580-b7c6-c3e010c7b198",
    "idx": 17,
    "data": [
     "Collaboration Tools",
@@ -303,7 +310,7 @@
    ]
   },
   {
-   "id": "1acd12f9-5813-4e77-ac04-37b1e5472ddc",
+   "id": "5f66224c-8f1a-40f1-91ba-f8e48fe7f31e",
    "idx": 18,
    "data": [
     "Automation and Workflow Optimization",
@@ -316,7 +323,7 @@
    ]
   },
   {
-   "id": "a8cda17d-3e62-4a54-acae-8320a59cdc64",
+   "id": "04b2ef06-7f74-4dd7-aaec-8442408dbdc0",
    "idx": 19,
    "data": [
     "Automation and Workflow Optimization",
@@ -329,7 +336,7 @@
    ]
   },
   {
-   "id": "4d504047-b26f-4a60-b3f6-94a01f014c27",
+   "id": "faa34db2-4434-4992-9a9a-37d461c0c38b",
    "idx": 20,
    "data": [
     "Automation and Workflow Optimization",
@@ -342,7 +349,7 @@
    ]
   },
   {
-   "id": "9c378a36-f43f-423a-89ce-7f8e94617e7d",
+   "id": "0e861dca-c8a6-45b7-8441-7c2cfd53cf37",
    "idx": 21,
    "data": [
     "Mobile and Cross-Platform Support",
@@ -355,7 +362,7 @@
    ]
   },
   {
-   "id": "ffe63b69-0ef4-426e-a135-8eb88e4c283b",
+   "id": "b67bbd39-69ee-4a41-923e-1e3c4caac86d",
    "idx": 22,
    "data": [
     "Integration Capabilities",
@@ -368,7 +375,7 @@
    ]
   },
   {
-   "id": "4cfa9e0c-2dba-4170-93e0-297a5ddfe3e1",
+   "id": "c6173a9e-5997-4cb9-83bc-9635832cc235",
    "idx": 23,
    "data": [
     "Automation and Workflow Optimization",
@@ -381,7 +388,7 @@
    ]
   },
   {
-   "id": "6973b370-1b65-4e01-8ede-a28f98095873",
+   "id": "215e3516-f589-4895-b493-13ed1a50f3c5",
    "idx": 24,
    "data": [
     "Security Features",
@@ -394,7 +401,7 @@
    ]
   },
   {
-   "id": "3dfdd16e-65f7-4a04-bb16-36bf996f1560",
+   "id": "6d2f86b9-be6a-42ac-9905-20a0e97214af",
    "idx": 25,
    "data": [
     "Automation and Workflow Optimization",
@@ -407,7 +414,7 @@
    ]
   },
   {
-   "id": "3cc8cc0a-ab7a-4799-93f2-777198269081",
+   "id": "2f1c4d12-a041-4ba7-b9c9-4f15fd6e4e02",
    "idx": 26,
    "data": [
     "User Interface Enhancements",
@@ -420,7 +427,7 @@
    ]
   },
   {
-   "id": "8a74cf24-297a-491f-a4b0-b6396b1f0e2c",
+   "id": "a3683aed-9edf-4b00-b21a-1922fe5897fd",
    "idx": 27,
    "data": [
     "Customization and Personalization",
@@ -433,7 +440,7 @@
    ]
   },
   {
-   "id": "82dac6e3-a93e-48d3-a5f8-e30e22b9c441",
+   "id": "2ac34780-b29c-4d7e-9a02-495c11a54b90",
    "idx": 28,
    "data": [
     "User Interface Enhancements",
@@ -446,7 +453,7 @@
    ]
   },
   {
-   "id": "4b8e94f2-eed4-4b12-b95c-fc422a2a5e25",
+   "id": "42142de8-4c67-472c-90ab-b8cf11ccd17f",
    "idx": 29,
    "data": [
     "Security Features",
@@ -459,7 +466,7 @@
    ]
   },
   {
-   "id": "23d23db8-9f0a-4bb6-b292-2ff3c1d04a1f",
+   "id": "5881f148-f97b-434a-bac1-0af72df8f734",
    "idx": 30,
    "data": [
     "Data Management and Analysis",
@@ -472,7 +479,7 @@
    ]
   },
   {
-   "id": "6a3bd85b-9b5b-4547-9e7d-f1378e91d2ee",
+   "id": "353dbf09-6a21-489d-b11a-d1036cf87af2",
    "idx": 31,
    "data": [
     "Collaboration Tools",
@@ -485,7 +492,7 @@
    ]
   },
   {
-   "id": "62260935-1a2e-42c1-b1a8-6c63806423e7",
+   "id": "da161a37-fcfd-4882-b795-833d1b4fca44",
    "idx": 32,
    "data": [
     "Accessibility Improvements",
@@ -498,7 +505,7 @@
    ]
   },
   {
-   "id": "2fb1d369-965d-45ae-b2f8-c1f99b1a3f1a",
+   "id": "9f3a2bc3-d5c2-4719-a631-c6d87c5d8c22",
    "idx": 33,
    "data": [
     "Automation and Workflow Optimization",
@@ -511,7 +518,7 @@
    ]
   },
   {
-   "id": "030a45f4-e257-4ab3-8d29-e38b6a58d96b",
+   "id": "e6d34e01-f72e-40c3-af47-1760d1acfc65",
    "idx": 34,
    "data": [
     "Data Management and Analysis",
@@ -524,7 +531,7 @@
    ]
   },
   {
-   "id": "a9726a94-0d8e-424a-8e24-c1fff3f10306",
+   "id": "7cb5743a-c8f9-4ee2-ac4f-a10f1bd21859",
    "idx": 35,
    "data": [
     "Performance Optimization",
@@ -537,7 +544,7 @@
    ]
   },
   {
-   "id": "0797ea91-0857-4772-b622-c2d3a57b0815",
+   "id": "f1ea476c-e7b1-40b0-9bdd-b6a96d619e75",
    "idx": 36,
    "data": [
     "Data Management and Analysis",
@@ -550,7 +557,7 @@
    ]
   },
   {
-   "id": "cfa0b445-7f08-4787-a2f7-4d46e15c24a5",
+   "id": "bd3d4d6f-0889-4829-ad22-529f8425c166",
    "idx": 37,
    "data": [
     "Data Management and Analysis",
@@ -563,7 +570,7 @@
    ]
   },
   {
-   "id": "6b2e9a59-84ba-410a-a383-d6c87a5f6646",
+   "id": "a9f531bd-e4d6-4f36-853a-d130b2139a20",
    "idx": 38,
    "data": [
     "User Interface Enhancements",
@@ -576,7 +583,7 @@
    ]
   },
   {
-   "id": "6b2193ba-946c-4234-b552-6ce5246501b6",
+   "id": "bd852ac2-4e0d-4668-ae39-9b9b531b7e1a",
    "idx": 39,
    "data": [
     "Integration Capabilities",
@@ -589,7 +596,7 @@
    ]
   },
   {
-   "id": "70f0f1ea-2275-46fc-876c-da962e87f894",
+   "id": "76bb5375-ba31-4bf4-ba21-6e813b560cdb",
    "idx": 40,
    "data": [
     "Security Features",
@@ -602,7 +609,7 @@
    ]
   },
   {
-   "id": "990d2d98-0a0a-413b-9bf1-f7d9d1ed9abf",
+   "id": "5b23fd2b-352b-494b-94a3-234b2046f944",
    "idx": 41,
    "data": [
     "Automation and Workflow Optimization",
@@ -615,7 +622,7 @@
    ]
   },
   {
-   "id": "50f8fcd4-e5d8-4bd5-ba96-bd1857d88340",
+   "id": "de00b747-3e2a-4373-961c-27b3c2641d66",
    "idx": 42,
    "data": [
     "Accessibility Improvements",
@@ -628,7 +635,7 @@
    ]
   },
   {
-   "id": "5346658a-9f86-4056-98df-7b30180a02f8",
+   "id": "caa36b7e-a9c7-4c7f-a2bb-3b2faacc6a34",
    "idx": 43,
    "data": [
     "Mobile and Cross-Platform Support",
@@ -641,7 +648,7 @@
    ]
   },
   {
-   "id": "32e781b0-acbd-4560-8bf1-94ed89b95a70",
+   "id": "867fec53-da86-4290-878c-7aab6b59c46b",
    "idx": 44,
    "data": [
     "Integration Capabilities",
@@ -654,7 +661,7 @@
    ]
   },
   {
-   "id": "5d15b686-2048-4743-a8bf-a168a1f87cd4",
+   "id": "76987da3-184f-4f25-9b84-bf2285fbb6c2",
    "idx": 45,
    "data": [
     "Collaboration Tools",
@@ -667,7 +674,7 @@
    ]
   },
   {
-   "id": "67a0e985-0d8b-4000-82b3-fedf84c3c5df",
+   "id": "551358d9-85af-4709-9f0b-8ee9ebc27bfc",
    "idx": 46,
    "data": [
     "User Interface Enhancements",
@@ -680,7 +687,7 @@
    ]
   },
   {
-   "id": "47e32aba-64a1-4531-80e3-27fdeb9f9f89",
+   "id": "c07c7630-6f09-4b3a-a9d7-e4ed42c19443",
    "idx": 47,
    "data": [
     "Security Features",
@@ -693,7 +700,7 @@
    ]
   },
   {
-   "id": "50ba3459-2625-490e-bc1c-d903bb58b381",
+   "id": "be8b0c20-6a5c-4567-b695-f2675cf3bd98",
    "idx": 48,
    "data": [
     "Mobile and Cross-Platform Support",
@@ -706,7 +713,7 @@
    ]
   },
   {
-   "id": "4c68f5f9-8df7-49f9-81bc-50a96e752d48",
+   "id": "b775f8fe-58a3-45fb-a146-b9738146c628",
    "idx": 49,
    "data": [
     "Data Management and Analysis",
@@ -719,7 +726,7 @@
    ]
   },
   {
-   "id": "aff5f4c8-e7d4-4b00-a9e7-b6716e823917",
+   "id": "6d2456f2-d199-4603-9d73-2cf2dfee9f2a",
    "idx": 50,
    "data": [
     "Mobile and Cross-Platform Support",
@@ -732,7 +739,7 @@
    ]
   },
   {
-   "id": "74a73fef-39a9-4f04-b138-a018c16f0f31",
+   "id": "cb1a77a7-a264-4605-865f-9919c7d8845b",
    "idx": 51,
    "data": [
     "User Interface Enhancements",
@@ -745,7 +752,7 @@
    ]
   },
   {
-   "id": "3e6864bf-151e-498f-b082-fb23ba6d8392",
+   "id": "9c6b8789-4d2d-4300-9b0d-cca72a0da55b",
    "idx": 52,
    "data": [
     "Performance Optimization",
@@ -758,7 +765,7 @@
    ]
   },
   {
-   "id": "a3d68f27-d220-417b-907b-441957b12ad1",
+   "id": "2b94a1d8-40a6-4353-ac26-c81f19a774bb",
    "idx": 53,
    "data": [
     "Automation and Workflow Optimization",
@@ -771,7 +778,7 @@
    ]
   },
   {
-   "id": "37280c86-8b38-4d35-90f3-a0c48478cc58",
+   "id": "9128d958-cd29-4bf8-8a39-94b871fc9290",
    "idx": 54,
    "data": [
     "Customization and Personalization",
@@ -784,7 +791,7 @@
    ]
   },
   {
-   "id": "1dbf068c-5ccc-4fcc-8f20-ee492483179e",
+   "id": "9b68a60b-4c20-4464-93db-e65702bd9b83",
    "idx": 55,
    "data": [
     "User Interface Enhancements",
@@ -797,7 +804,7 @@
    ]
   },
   {
-   "id": "f71c4a67-7693-4755-ba6d-3ec15aef208c",
+   "id": "1014493d-88ed-41c7-8f65-3ce9cbd23472",
    "idx": 56,
    "data": [
     "User Interface Enhancements",
@@ -810,7 +817,7 @@
    ]
   },
   {
-   "id": "fb540377-9849-4ee0-868b-b839d6743cc3",
+   "id": "f575ae49-3901-4d26-a8fb-9ec22157e203",
    "idx": 57,
    "data": [
     "User Interface Enhancements",
@@ -823,7 +830,7 @@
    ]
   },
   {
-   "id": "3d3977d4-2a49-49c1-8c69-8ef1e3d50415",
+   "id": "543bd233-d99c-4f98-802b-97132ad48a75",
    "idx": 58,
    "data": [
     "Integration Capabilities",
@@ -836,7 +843,7 @@
    ]
   },
   {
-   "id": "c3f9cc8f-9c94-431c-84f3-a8ef6aed6662",
+   "id": "f82cf73b-01aa-46d6-8809-f5b0cce51f95",
    "idx": 59,
    "data": [
     "Customization and Personalization",
@@ -849,7 +856,7 @@
    ]
   },
   {
-   "id": "5e795b5c-8c85-4520-b6d2-5b17df752b03",
+   "id": "e67613ef-3ead-4720-b717-e1a51c6761bf",
    "idx": 60,
    "data": [
     "Data Management and Analysis",
@@ -862,7 +869,7 @@
    ]
   },
   {
-   "id": "2abfd4b6-1723-4a4a-a543-e9d2da02d994",
+   "id": "bd1d6da5-8a3f-49b0-8a29-4237b29329e4",
    "idx": 61,
    "data": [
     "Integration Capabilities",
@@ -875,7 +882,7 @@
    ]
   },
   {
-   "id": "00d2851f-2936-4e3e-988e-ae6e154e409f",
+   "id": "e188f368-5b26-42aa-9cb9-923e742dc1f6",
    "idx": 62,
    "data": [
     "Accessibility Improvements",
@@ -888,7 +895,7 @@
    ]
   },
   {
-   "id": "cd790fb5-7a17-4955-903d-851ae11a4d1b",
+   "id": "1929a248-63a7-4a54-acbd-31ae71195e95",
    "idx": 63,
    "data": [
     "Automation and Workflow Optimization",
@@ -901,7 +908,7 @@
    ]
   },
   {
-   "id": "c3419cfd-ea40-47fb-9534-ae64da3a9658",
+   "id": "0a34d989-8e7e-43bb-a104-bb89f5e8e096",
    "idx": 64,
    "data": [
     "User Interface Enhancements",
@@ -914,7 +921,7 @@
    ]
   },
   {
-   "id": "c62bf49f-6d3f-42cd-88ca-b181f4e54fb8",
+   "id": "b9e24b1a-bac1-4172-b279-c24290b42cd8",
    "idx": 65,
    "data": [
     "User Interface Enhancements",
@@ -927,7 +934,7 @@
    ]
   },
   {
-   "id": "485a46e4-548e-4b13-998e-b7c2ffd0b891",
+   "id": "8a3e07e1-0077-4974-8679-9990657156e9",
    "idx": 66,
    "data": [
     "Accessibility Improvements",
@@ -940,7 +947,7 @@
    ]
   },
   {
-   "id": "aa9f53f1-f66b-46cb-80d3-ce2b452c994e",
+   "id": "e1ff396a-3bc8-4348-8bfe-f7778cad4632",
    "idx": 67,
    "data": [
     "Data Management and Analysis",
@@ -953,7 +960,7 @@
    ]
   },
   {
-   "id": "78057ba7-dd11-44dc-a5dc-3fb47a58323a",
+   "id": "d1c12a55-f5ef-48d3-a781-41b7da0b932c",
    "idx": 68,
    "data": [
     "Accessibility Improvements",
@@ -966,7 +973,7 @@
    ]
   },
   {
-   "id": "2a164650-ccd4-4e96-9a83-777a4f416a67",
+   "id": "1de6fb97-5de4-4506-92f1-0c0edbe08e94",
    "idx": 69,
    "data": [
     "Mobile and Cross-Platform Support",
@@ -979,7 +986,7 @@
    ]
   },
   {
-   "id": "f8597b5b-8da9-4552-91b8-f1fbedc04840",
+   "id": "55d919cb-4538-4769-a489-ab5b5beafb4d",
    "idx": 70,
    "data": [
     "Security Features",
@@ -992,7 +999,7 @@
    ]
   },
   {
-   "id": "3facbcca-0b73-4a58-8e2d-989770e1a0b9",
+   "id": "197427f9-9048-4fab-8641-23bd583d3735",
    "idx": 71,
    "data": [
     "Performance Optimization",
@@ -1005,7 +1012,7 @@
    ]
   },
   {
-   "id": "fb0e93bd-484a-4c71-b01d-2a2840f08f48",
+   "id": "9e7e2a51-a45f-4309-9da7-a395d1465db9",
    "idx": 72,
    "data": [
     "Data Management and Analysis",
@@ -1018,7 +1025,7 @@
    ]
   },
   {
-   "id": "a1d0dafe-7798-4c14-ad2a-3bfddd9f4925",
+   "id": "fcb54e7b-9660-4fd7-a0dd-5d01046a58c5",
    "idx": 73,
    "data": [
     "Integration Capabilities",
@@ -1031,7 +1038,7 @@
    ]
   },
   {
-   "id": "6497a210-1d59-447c-a768-820e039e202f",
+   "id": "c2626cf2-4592-4d8a-8a6d-18e7fc29cca6",
    "idx": 74,
    "data": [
     "Accessibility Improvements",
@@ -1044,7 +1051,7 @@
    ]
   },
   {
-   "id": "02e75a33-52f9-4282-91db-941e2a59e48c",
+   "id": "fd0597b7-c045-4350-9d04-ccd1a590d91b",
    "idx": 75,
    "data": [
     "User Interface Enhancements",
@@ -1057,7 +1064,7 @@
    ]
   },
   {
-   "id": "054a7d33-c1f0-42aa-8a0f-3ec2994ea997",
+   "id": "1433340b-8317-4a42-ab71-68d441906efe",
    "idx": 76,
    "data": [
     "Performance Optimization",
@@ -1070,7 +1077,7 @@
    ]
   },
   {
-   "id": "f8b81476-d42d-41f7-9c7d-1fc18fa3ee68",
+   "id": "b127a294-368a-40b5-8793-df53f59c49d2",
    "idx": 77,
    "data": [
     "Collaboration Tools",
@@ -1083,7 +1090,7 @@
    ]
   },
   {
-   "id": "741cfb9f-40ba-4d7e-9e10-37a7a3b8652c",
+   "id": "ece3f724-f570-484f-93ca-5836a8e1a7b7",
    "idx": 78,
    "data": [
     "Collaboration Tools",
@@ -1096,7 +1103,7 @@
    ]
   },
   {
-   "id": "4ef6aefe-e57f-44f6-bce9-395fcaac55a1",
+   "id": "562dc2db-9258-40e6-87fb-3a13986ced59",
    "idx": 79,
    "data": [
     "Data Management and Analysis",
@@ -1109,7 +1116,7 @@
    ]
   },
   {
-   "id": "2113edbc-0931-4986-96fd-0a06358ad7d7",
+   "id": "f01afb9a-8807-47d9-8f1b-cd32e33e0ae6",
    "idx": 80,
    "data": [
     "Integration Capabilities",
@@ -1122,7 +1129,7 @@
    ]
   },
   {
-   "id": "bb019ab3-cb98-47c3-a63b-7f45871a1024",
+   "id": "4d7cc8b7-26fe-48bf-86f0-b09ae6aadba2",
    "idx": 81,
    "data": [
     "Performance Optimization",
@@ -1135,7 +1142,7 @@
    ]
   },
   {
-   "id": "2829224d-a112-406a-aa78-60b1c0375895",
+   "id": "943dc1da-1eea-4b23-88d3-ee42babfe810",
    "idx": 82,
    "data": [
     "Data Management and Analysis",
@@ -1148,7 +1155,7 @@
    ]
   },
   {
-   "id": "3b9981e8-ae3c-4925-9371-34577e760317",
+   "id": "5fd6ae3d-79e0-4a6c-8849-d633df8039ef",
    "idx": 83,
    "data": [
     "Integration Capabilities",
@@ -1161,7 +1168,7 @@
    ]
   },
   {
-   "id": "eea12c9a-514f-4a51-aa3d-f5fe9b589ff1",
+   "id": "84bf1d5c-c7ec-4167-9d73-9915143b4ec0",
    "idx": 84,
    "data": [
     "Performance Optimization",
@@ -1174,7 +1181,7 @@
    ]
   },
   {
-   "id": "29ab6e8d-1e7f-42f4-8be4-71583c0d2e6b",
+   "id": "625ea11c-099a-4b84-81a6-1ab548e92cdb",
    "idx": 85,
    "data": [
     "User Interface Enhancements",
@@ -1187,7 +1194,7 @@
    ]
   },
   {
-   "id": "dcf545d7-83a6-4a67-b1b2-b5211c36d159",
+   "id": "ad9e01ac-de06-44eb-8023-b12b5583cbef",
    "idx": 86,
    "data": [
     "Security Features",
@@ -1200,7 +1207,7 @@
    ]
   },
   {
-   "id": "ad12be44-119c-4cdf-8c9d-6325cd96ae77",
+   "id": "46f87bdf-eed1-4d6d-b9b0-09cbd7a314e1",
    "idx": 87,
    "data": [
     "User Interface Enhancements",
@@ -1213,7 +1220,7 @@
    ]
   },
   {
-   "id": "20f4c2fe-9d0b-43b3-835b-be009d398a50",
+   "id": "33fbba79-10a5-480a-a64f-264d493628d2",
    "idx": 88,
    "data": [
     "Customization and Personalization",
@@ -1226,7 +1233,7 @@
    ]
   },
   {
-   "id": "b3e0d67f-7331-47df-a0a1-b4a87825eb5d",
+   "id": "3a4b9510-e19d-4044-aea2-a0dda7aa37f3",
    "idx": 89,
    "data": [
     "Mobile and Cross-Platform Support",
