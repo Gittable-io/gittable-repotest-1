@@ -2,7 +2,8 @@
  "formatVersion": "1.0.0",
  "columns": [
   {
-   "id": "1c217fbb-031d-4426-8ce3-bfbf01e2841b",
+   "id": "c7221d70-0607-47ac-8ea9-5135516ac638",
+   "idx": 0,
    "name": "Single select",
    "type": {
     "name": "single-select",
@@ -21,7 +22,8 @@
    }
   },
   {
-   "id": "0f772fc2-13a1-428c-8383-96997e6a43e0",
+   "id": "03e10899-a1d6-44ba-9398-ab3bbea6a0ad",
+   "idx": 1,
    "name": "Text",
    "type": {
     "name": "text"
@@ -30,7 +32,7 @@
  ],
  "records": [
   {
-   "id": "3f9c61da-e0f6-4628-94d7-97ca32431cd8",
+   "id": "ca4c2ba2-8d1d-4f4a-957e-e00ebe55d8b7",
    "idx": 0,
    "data": [
     "Planet",
@@ -38,7 +40,7 @@
    ]
   },
   {
-   "id": "d7d17c18-19a3-4dd7-927b-5cf46e171a25",
+   "id": "3c1cd8e4-1f2f-426e-a110-5e0e8bca9488",
    "idx": 1,
    "data": [
     "Black Hole",
@@ -46,7 +48,7 @@
    ]
   },
   {
-   "id": "d9bfa1c5-1c04-4af9-8d06-77f70ee9c946",
+   "id": "0f5ed8d5-7698-4d2e-8db2-4b3fb0cad1fe",
    "idx": 2,
    "data": [
     "Astronaut",
@@ -54,7 +56,7 @@
    ]
   },
   {
-   "id": "3fea6a5b-f19b-4556-9064-209b7c3c15cc",
+   "id": "b6298b89-9b49-4025-93e5-b4a7a8884a0a",
    "idx": 3,
    "data": [
     "Galaxy",
@@ -62,7 +64,7 @@
    ]
   },
   {
-   "id": "74a45eae-9084-499c-ab27-f24feadb5639",
+   "id": "7869c347-1b83-436f-bdb5-b78786473374",
    "idx": 4,
    "data": [
     "Black Hole",
@@ -70,7 +72,7 @@
    ]
   },
   {
-   "id": "7d2fb7a6-9848-4b51-bbcd-6600924132dc",
+   "id": "033de5a8-f5c9-4e63-ac35-6e8da0a53bd4",
    "idx": 5,
    "data": [
     "Nebula",
@@ -78,7 +80,7 @@
    ]
   },
   {
-   "id": "67407c90-c65c-4b3e-901b-d01f726817ff",
+   "id": "6b15babb-665d-40a7-95dc-b2204995f275",
    "idx": 6,
    "data": [
     "Starlight",
@@ -86,7 +88,7 @@
    ]
   },
   {
-   "id": "bcdd859e-d0b1-4129-b88f-2daf417e312a",
+   "id": "ac0df69b-a182-4636-937d-0fc8b00ee72b",
    "idx": 7,
    "data": [
     "Comet",
@@ -94,7 +96,7 @@
    ]
   },
   {
-   "id": "02073075-8395-4d51-a82f-d27b30296862",
+   "id": "a6f4330c-d866-483d-b87b-ab5021fcac52",
    "idx": 8,
    "data": [
     "Orbit",
@@ -102,7 +104,7 @@
    ]
   },
   {
-   "id": "faecc59b-4bc2-42fd-ad39-95fcfcb1068a",
+   "id": "042fae8b-ea6a-40b2-9ee5-b6a7f3dc7f69",
    "idx": 9,
    "data": [
     "Telescope",

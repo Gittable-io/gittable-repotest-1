@@ -2,21 +2,24 @@
  "formatVersion": "1.0.0",
  "columns": [
   {
-   "id": "1004a256-65ee-4971-aa4c-6fd4ae3b12d1",
+   "id": "2a597c54-edb6-4b12-9ba9-585f6c692cfb",
+   "idx": 0,
    "name": "col1",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "572a68aa-a1d5-401f-a333-2500463769c4",
+   "id": "129a02f5-0f1a-479c-b842-615c7e286862",
+   "idx": 1,
    "name": "col2",
    "type": {
     "name": "text"
    }
   },
   {
-   "id": "e88ef218-c16d-4ffe-9487-f857fb75caad",
+   "id": "873a000d-4057-4578-9381-4627a8bf4dd5",
+   "idx": 2,
    "name": "col3",
    "type": {
     "name": "text"
@@ -25,7 +28,7 @@
  ],
  "records": [
   {
-   "id": "13e07ef7-fead-4ceb-99c2-6d366a5b455c",
+   "id": "681f138f-16cf-4389-9ab5-65a0b2b12249",
    "idx": 0,
    "data": [
     "cell11",
@@ -34,7 +37,7 @@
    ]
   },
   {
-   "id": "202286af-f2dc-4f2a-aea3-00e3b1dd1faf",
+   "id": "2cbd12be-f767-4f41-ada0-fe84f17f484c",
    "idx": 1,
    "data": [
     "cell21",
@@ -43,7 +46,7 @@
    ]
   },
   {
-   "id": "34f6e8d7-bd41-47e7-a21e-3261d29fcd1a",
+   "id": "f77320bf-a4fc-431c-b9f7-a14639f8c7e9",
    "idx": 2,
    "data": [
     "cell31",
