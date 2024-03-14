@@ -1,0 +1,88 @@
+{
+ "formatVersion": "2.0.0",
+ "columns": [
+  {
+   "id": "7ff605cb-cabd-4376-b9b8-a1f3dfe3a006",
+   "idx": 0,
+   "name": "Animal",
+   "type": {
+    "name": "single-select",
+    "options": [
+     "cat",
+     "dog",
+     "horse",
+     "bird"
+    ]
+   }
+  },
+  {
+   "id": "1f139bbb-9d26-4357-9d4a-5d5adb06c6e3",
+   "idx": 1,
+   "name": "Space",
+   "type": {
+    "name": "single-select",
+    "options": [
+     "Galaxy",
+     "Nebula",
+     "Comet",
+     "Black Hole",
+     "Orbit",
+     "Planet",
+     "Astronaut",
+     "Telescope",
+     "Starlight",
+     "Alien"
+    ]
+   }
+  },
+  {
+   "id": "3342a935-c24d-4926-b257-06bb9c28c294",
+   "idx": 2,
+   "name": "Features",
+   "type": {
+    "name": "single-select",
+    "options": [
+     "User Interface Enhancements",
+     "Performance Optimization",
+     "Security Features",
+     "Accessibility Improvements",
+     "Integration Capabilities",
+     "Collaboration Tools",
+     "Customization and Personalization",
+     "Data Management and Analysis",
+     "Automation and Workflow Optimization",
+     "Mobile and Cross-Platform Support"
+    ]
+   }
+  }
+ ],
+ "records": [
+  {
+   "id": "68867afc-13c8-4936-83cf-b910b84fd7a0",
+   "idx": 0,
+   "data": [
+    "horse",
+    "Black Hole",
+    "Customization and Personalization"
+   ]
+  },
+  {
+   "id": "9de9f079-03bf-4682-bfd9-9846c0886fe9",
+   "idx": 1,
+   "data": [
+    "cat",
+    "Black Hole",
+    "Performance Optimization"
+   ]
+  },
+  {
+   "id": "be37a4bd-a34c-4ebb-bb3d-3843dc753569",
+   "idx": 2,
+   "data": [
+    "bird",
+    "Comet",
+    "Integration Capabilities"
+   ]
+  }
+ ]
+}
